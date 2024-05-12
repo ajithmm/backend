@@ -78,9 +78,7 @@ if (req.query.RemoteStart  ) {
   obj.RemoteStart   = req.query.RemoteStart ;
 }
 
-if (req.query3. model  ) {
-  obj. model   = req.query. model ;
-}
+
 
  
 
